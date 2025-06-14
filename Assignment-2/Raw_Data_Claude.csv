@@ -1,0 +1,61 @@
+Steel Type,Chemical Composition (%),Heat Treatment,Test Temp (°C),Grain Size (µm),Phases,Dislocation Density (m⁻²),YS (MPa),UTS (MPa),Hardness (HV),Elongation (%),Strain Rate (s⁻¹),Strain Hardening Exponent (n),"Strain Hardening Coefficient (K, MPa)"
+D-01,"Cr:22.4, Ni:5.8, Mo:3.1, N:0.17, C:0.023, Si:0.4, Mn:1.2","Solution annealed 1080°C/1h, water quenched",25,15,Ferrite + Austenite,5.3×10¹⁴,580,795,290,26,10⁻³,0.28,1050
+D-02,"Cr:23.1, Ni:5.5, Mo:2.9, N:0.18, C:0.018, Si:0.6, Mn:1.4","Solution annealed 1100°C/45min, water quenched",22,12,Ferrite + Austenite,4.8×10¹⁴,610,820,285,24,10⁻³,0.26,1100
+D-03,"Cr:24.0, Ni:6.2, Mo:3.3, N:0.21, C:0.015, Si:0.5, Mn:0.9","Solution annealed 1120°C/1h, air cooled",20,18,Ferrite + Austenite,-,565,780,275,28,10⁻³,0.29,1030
+D-04,"Cr:21.8, Ni:5.3, Mo:2.7, N:0.15, C:0.025, Si:0.3, Mn:1.3","Solution annealed 1050°C/30min, water quenched",27,10,Ferrite + Austenite,6.1×10¹⁴,590,810,295,23,10⁻²,0.25,1080
+D-05,"Cr:22.8, Ni:5.9, Mo:3.0, N:0.16, C:0.02, Si:0.4, Mn:1.1","Solution annealed 1090°C/50min, water quenched",23,14,Ferrite + Austenite,5.0×10¹⁴,600,800,285,25,10⁻³,-,1070
+D-06,"Cr:22.6, Ni:6.0, Mo:2.8, N:0.19, C:0.017, Si:0.5, Mn:1.0","Solution annealed 1075°C/55min, water quenched",24,13,Ferrite + Austenite,5.2×10¹⁴,595,805,288,25,10⁻³,0.27,1060
+D-07,"Cr:23.5, Ni:6.3, Mo:3.2, N:0.2, C:0.016, Si:0.6, Mn:0.8","Solution annealed 1110°C/1h, water quenched",21,16,Ferrite + Austenite,4.9×10¹⁴,575,790,280,27,-,0.28,1040
+D-08,"Cr:22.0, Ni:5.4, Mo:2.6, N:0.14, C:0.022, Si:0.3, Mn:1.2","Solution annealed 1060°C/40min, water quenched",26,11,Ferrite + Austenite,5.8×10¹⁴,605,815,292,24,10⁻³,0.26,1090
+D-09,"Cr:23.8, Ni:6.1, Mo:3.4, N:0.22, C:0.014, Si:0.5, Mn:0.7","Solution annealed 1130°C/1h, water quenched",20,19,Ferrite + Austenite,4.6×10¹⁴,560,775,270,29,10⁻³,0.3,1020
+D-10,"Cr:22.2, Ni:5.6, Mo:2.8, N:0.16, C:0.019, Si:0.4, Mn:1.3","Solution annealed 1070°C/50min, water quenched",25,-,Ferrite + Austenite,5.5×10¹⁴,585,800,287,25,10⁻³,0.27,1065
+D-11,"Cr:22.9, Ni:5.5, Mo:2.9, N:0.17, C:0.021, Si:0.55, Mn:1.1","Annealed 1095°C/45min, oil quenched",24,14,Ferrite + Austenite,5.1×10¹⁴,590,795,283,26,10⁻³,0.28,-
+D-12,"Cr:21.7, Ni:5.7, Mo:2.6, N:0.15, C:0.024, Si:0.35, Mn:1.4","Annealed 1040°C/40min, water quenched",28,9,Ferrite + Austenite,6.3×10¹⁴,615,825,298,22,10⁻²,0.24,1110
+D-13,"Cr:24.2, Ni:6.4, Mo:3.5, N:0.23, C:0.013, Si:0.6, Mn:0.6","Annealed 1140°C/1h, water quenched",19,20,Ferrite + Austenite,4.4×10¹⁴,555,770,265,30,10⁻³,0.31,1010
+D-14,"Cr:22.5, Ni:5.8, Mo:3.0, N:0.18, C:0.02, Si:0.5, Mn:1.0","Solution annealed 1085°C/55min, water quenched",23,13,Ferrite + Austenite,5.2×10¹⁴,595,805,-,26,10⁻³,0.27,1060
+D-15,"Cr:22.1, Ni:5.4, Mo:2.7, N:0.15, C:0.023, Si:0.4, Mn:1.2","Annealed 1065°C/45min, water quenched",26,12,Ferrite + Austenite,5.7×10¹⁴,600,810,291,24,10⁻³,0.26,1085
+D-16,"Cr:23.6, Ni:6.2, Mo:3.3, N:0.21, C:0.016, Si:0.55, Mn:0.8","Solution annealed 1120°C/1h, air cooled",21,17,Ferrite + Austenite,4.7×10¹⁴,570,785,275,28,10⁻³,0.29,1035
+D-17,"Cr:22.3, Ni:5.6, Mo:2.9, N:0.17, C:0.021, Si:0.45, Mn:1.1","Annealed 1075°C/50min, brine quenched",24,14,Ferrite + Austenite,5.3×10¹⁴,590,800,286,25,10⁻³,0.27,1070
+D-18,"Cr:21.9, Ni:5.3, Mo:2.7, N:0.16, C:0.024, Si:0.35, Mn:1.3","Solution annealed 1055°C/40min, water quenched",27,11,Ferrite + Austenite,5.9×10¹⁴,605,815,294,23,10⁻³,0.25,1095
+D-19,"Cr:23.3, Ni:6.0, Mo:3.2, N:0.19, C:0.018, Si:0.5, Mn:0.9","Annealed 1105°C/1h, water quenched",22,16,Ferrite + Austenite,-,580,790,280,27,10⁻³,0.28,1045
+D-20,"Cr:22.7, Ni:5.9, Mo:3.1, N:0.18, C:0.019, Si:0.45, Mn:1.0","Annealed 1090°C/55min, water quenched",23,15,Ferrite + Austenite,5.1×10¹⁴,590,800,285,26,10⁻³,0.27,1060
+D-21,"Cr:24.1, Ni:6.3, Mo:3.4, N:0.22, C:0.014, Si:0.6, Mn:0.7","Solution annealed 1130°C/1h, water quenched",20,19,Ferrite + Austenite,4.5×10¹⁴,-,775,270,29,10⁻³,0.3,1015
+D-22,"Cr:22.0, Ni:5.5, Mo:2.8, N:0.16, C:0.022, Si:0.4, Mn:1.2","Annealed 1070°C/45min, water quenched",25,13,Ferrite + Austenite,5.6×10¹⁴,595,805,290,25,10⁻³,0.26,1075
+D-23,"Cr:23.8, Ni:6.2, Mo:3.3, N:0.21, C:0.015, Si:0.55, Mn:0.8","Solution annealed 1125°C/1h, water quenched",21,18,Ferrite + Austenite,4.7×10¹⁴,565,780,275,28,10⁻³,0.29,1030
+D-24,"Cr:22.4, Ni:5.7, Mo:3.0, N:0.18, C:0.02, Si:0.45, Mn:1.1","Annealed 1080°C/50min, water quenched",24,14,Ferrite + Austenite,5.3×10¹⁴,585,800,285,26,-,0.27,1055
+D-25,"Cr:21.6, Ni:5.2, Mo:2.6, N:0.14, C:0.025, Si:0.3, Mn:1.4","Solution annealed 1040°C/35min, water quenched",28,9,Ferrite + Austenite,6.4×10¹⁴,620,830,300,22,10⁻²,0.24,1115
+D-26,"Cr:23.4, Ni:6.1, Mo:3.2, N:0.2, C:0.017, Si:0.5, Mn:0.9","Annealed 1110°C/1h, water quenched",22,16,Ferrite + Austenite,4.8×10¹⁴,575,785,278,27,10⁻³,-,1040
+D-27,"Cr:22.1, Ni:5.5, Mo:2.8, N:0.16, C:0.022, Si:0.4, Mn:1.2","Solution annealed 1065°C/45min, water quenched",25,12,Ferrite + Austenite,5.5×10¹⁴,600,810,290,24,10⁻³,0.26,1080
+D-28,"Cr:23.7, Ni:6.2, Mo:3.3, N:0.2, C:0.016, Si:0.55, Mn:0.8","Annealed 1120°C/1h, water quenched",21,17,Ferrite + Austenite,4.7×10¹⁴,570,785,275,-,10⁻³,0.29,1035
+D-29,"Cr:22.3, Ni:5.7, Mo:2.9, N:0.17, C:0.021, Si:0.45, Mn:1.1","Solution annealed 1075°C/50min, water quenched",24,14,Ferrite + Austenite,5.2×10¹⁴,590,800,285,25,10⁻³,0.27,1065
+D-30,"Cr:22.8, Ni:5.9, Mo:3.1, N:0.18, C:0.019, Si:0.5, Mn:1.0","Annealed 1095°C/55min, water quenched",23,15,Ferrite + Austenite,5.0×10¹⁴,585,795,283,26,10⁻³,0.28,1055
+D-31,"Cr:24.5, Ni:6.5, Mo:3.6, N:0.24, C:0.012, Si:0.65, Mn:0.6","Solution annealed 1145°C/1h, water quenched",19,21,Ferrite + Austenite,4.3×10¹⁴,550,765,262,31,10⁻³,0.32,1005
+D-32,"Cr:21.5, Ni:5.1, Mo:2.5, N:0.13, C:0.026, Si:0.25, Mn:1.5","Annealed 1035°C/35min, water quenched",29,8,Ferrite + Austenite,6.5×10¹⁴,625,835,305,21,10⁻²,0.23,1120
+D-33,"Cr:23.0, Ni:5.6, Mo:3.0, N:0.18, C:0.019, Si:0.5, Mn:1.0","Solution annealed 1100°C/50min, water quenched",22,14,Ferrite + Austenite,5.0×10¹⁴,595,805,285,25,10⁻³,0.27,1065
+D-34,"Cr:22.5, Ni:6.4, Mo:2.7, N:0.16, C:0.021, Si:0.45, Mn:1.2","Annealed 1080°C/45min, oil quenched",24,13,Ferrite + Austenite,5.4×10¹⁴,580,790,282,26,10⁻³,0.28,1045
+D-35,"Cr:25.0, Ni:6.0, Mo:3.8, N:0.25, C:0.011, Si:0.7, Mn:0.5","Solution annealed 1150°C/1h, water quenched",18,22,Ferrite + Austenite,4.2×10¹⁴,545,760,260,32,-,0.33,1000
+D-36,"Cr:22.9, Ni:5.5, Mo:3.1, N:0.17, C:0.02, Si:0.5, Mn:1.1","Annealed 1095°C/50min, water quenched",23,15,Ferrite + Austenite,5.1×10¹⁴,595,805,287,25,10⁻³,0.27,1070
+D-37,"Cr:21.4, Ni:5.0, Mo:2.4, N:0.13, C:0.027, Si:0.2, Mn:1.6","Solution annealed 1030°C/30min, water quenched",30,7,Ferrite + Austenite,6.6×10¹⁴,630,840,310,20,10⁻²,0.22,1125
+D-38,"Cr:23.9, Ni:6.3, Mo:3.4, N:0.22, C:0.014, Si:0.6, Mn:0.7","Annealed 1135°C/1h, water quenched",20,19,Ferrite + Austenite,4.6×10¹⁴,560,775,270,29,10⁻³,0.3,1020
+D-39,"Cr:22.3, Ni:5.7, Mo:2.8, N:0.17, C:0.022, Si:0.4, Mn:1.2","Solution annealed 1075°C/45min, brine quenched",24,13,Ferrite + Austenite,-,598,807,289,24,10⁻³,0.26,1075
+D-40,"Cr:24.3, Ni:6.5, Mo:3.5, N:0.23, C:0.013, Si:0.62, Mn:0.6","Annealed 1140°C/1h, air cooled",19,20,Ferrite + Austenite,4.5×10¹⁴,557,772,267,30,10⁻³,0.31,1012
+D-41,"Cr:21.6, Ni:5.2, Mo:2.5, N:0.14, C:0.025, Si:0.3, Mn:1.4","Solution annealed 1045°C/35min, water quenched",28,9,Ferrite + Austenite,6.3×10¹⁴,618,828,298,22,10⁻²,0.24,1112
+D-42,"Cr:23.2, Ni:5.8, Mo:3.1, N:0.19, C:0.018, Si:0.52, Mn:0.9","Annealed 1105°C/55min, water quenched",23,16,Ferrite + Austenite,4.9×10¹⁴,582,795,281,27,10⁻³,0.28,1048
+D-43,"Cr:22.0, Ni:5.3, Mo:2.7, N:0.15, C:0.023, Si:0.35, Mn:1.3","Solution annealed 1060°C/40min, water quenched",26,10,Ferrite + Austenite,5.8×10¹⁴,603,813,293,23,-,0.25,1088
+D-44,"Cr:24.8, Ni:6.6, Mo:3.7, N:0.24, C:0.011, Si:0.7, Mn:0.5","Annealed 1148°C/1h, water quenched",18,22,Ferrite + Austenite,4.2×10¹⁴,548,763,263,31,10⁻³,0.32,1003
+D-45,"Cr:21.8, Ni:5.4, Mo:2.6, N:0.15, C:0.024, Si:0.35, Mn:1.3","Solution annealed 1055°C/38min, oil quenched",27,11,Ferrite + Austenite,5.9×10¹⁴,602,812,292,23,10⁻³,0.25,1090
+D-46,"Cr:23.6, Ni:6.1, Mo:3.3, N:0.21, C:0.017, Si:0.55, Mn:0.8","Annealed 1120°C/1h, water quenched",21,17,Ferrite + Austenite,4.7×10¹⁴,568,783,274,28,10⁻³,0.29,1033
+D-47,"Cr:22.4, Ni:5.7, Mo:2.9, N:0.17, C:0.02, Si:0.45, Mn:1.1","Solution annealed 1078°C/50min, water quenched",24,14,Ferrite + Austenite,5.3×10¹⁴,588,803,286,26,10⁻³,0.27,1058
+D-48,"Cr:25.2, Ni:6.8, Mo:3.9, N:0.26, C:0.01, Si:0.75, Mn:0.4","Annealed 1155°C/1h, water quenched",17,23,Ferrite + Austenite,-,540,755,258,33,10⁻³,0.34,995
+D-49,"Cr:21.3, Ni:4.9, Mo:2.3, N:0.12, C:0.028, Si:0.2, Mn:1.7","Solution annealed 1025°C/25min, water quenched",31,6,Ferrite + Austenite,6.7×10¹⁴,635,845,312,19,10⁻²,0.21,1130
+D-50,"Cr:23.5, Ni:6.0, Mo:3.2, N:0.2, C:0.016, Si:0.58, Mn:0.8","Annealed 1115°C/1h, water quenched",22,17,Ferrite + Austenite,4.8×10¹⁴,572,788,277,27,10⁻³,0.28,1038
+D-51,"Cr:22.6, Ni:5.8, Mo:3.0, N:0.18, C:0.019, Si:0.48, Mn:1.0","Solution annealed 1088°C/52min, water quenched",23,15,Ferrite + Austenite,5.1×10¹⁴,592,802,284,26,-,0.27,1062
+D-52,"Cr:24.6, Ni:6.5, Mo:3.6, N:0.23, C:0.012, Si:0.65, Mn:0.6","Annealed 1143°C/1h, water quenched",19,20,Ferrite + Austenite,4.4×10¹⁴,553,768,265,30,10⁻³,0.31,1008
+D-53,"Cr:21.7, Ni:5.3, Mo:2.6, N:0.15, C:0.023, Si:0.32, Mn:1.3","Solution annealed 1050°C/35min, brine quenched",27,10,Ferrite + Austenite,6.0×10¹⁴,608,818,296,23,10⁻²,0.25,1095
+D-54,"Cr:23.1, Ni:5.7, Mo:3.1, N:0.19, C:0.018, Si:0.5, Mn:0.9","Annealed 1100°C/55min, air cooled",23,15,Ferrite + Austenite,5.0×10¹⁴,585,798,282,26,10⁻³,0.27,1055
+D-55,"Cr:22.2, Ni:5.5, Mo:2.8, N:0.16, C:0.021, Si:0.4, Mn:1.2","Solution annealed 1068°C/45min, water quenched",25,13,Ferrite + Austenite,-,598,808,288,25,10⁻³,0.26,1078
+D-56,"Cr:24.4, Ni:6.4, Mo:3.5, N:0.22, C:0.013, Si:0.62, Mn:0.7","Annealed 1138°C/1h, water quenched",20,19,Ferrite + Austenite,4.5×10¹⁴,558,773,268,29,10⁻³,0.3,1018
+D-57,"Cr:21.9, Ni:5.4, Mo:2.7, N:0.16, C:0.022, Si:0.38, Mn:1.2","Solution annealed 1058°C/42min, water quenched",26,11,Ferrite + Austenite,5.7×10¹⁴,600,810,290,24,10⁻³,0.26,1083
+D-58,"Cr:23.7, Ni:6.2, Mo:3.4, N:0.21, C:0.015, Si:0.56, Mn:0.8","Annealed 1125°C/1h, water quenched",21,18,Ferrite + Austenite,4.6×10¹⁴,566,780,273,28,-,0.29,1028
+D-59,"Cr:22.1, Ni:5.6, Mo:2.9, N:0.17, C:0.02, Si:0.43, Mn:1.1","Solution annealed 1072°C/48min, oil quenched",24,14,Ferrite + Austenite,5.4×10¹⁴,593,804,287,25,10⁻³,0.27,1068
+D-60,"Cr:23.3, Ni:5.9, Mo:3.2, N:0.2, C:0.017, Si:0.53, Mn:0.9","Annealed 1108°C/58min, water quenched",22,16,Ferrite + Austenite,4.9×10¹⁴,578,792,279,27,10⁻³,0.28,1042

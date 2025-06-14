@@ -1,0 +1,61 @@
+Steel Type,Chemical Composition (%),Heat Treatment,Test Temp (°C),Grain Size (µm),Phases,Dislocation Density (m⁻²),YS (MPa),UTS (MPa),Hardness (HV),Elongation (%),Strain Rate (s⁻¹),Strain Hardening Exponent (n),"Strain Hardening Coefficient (K, MPa)"
+Duplex Steel,"Cr:22.000, Ni:5.500, Mo:3.000, N:0.150",Sol. Annealed 1080°C,25,15,Ferrite + Austenite,5×1013,450,700,220,35,0.001,0.2,950
+Duplex Steel,"Cr:23.000, Ni:5.000, Mo:3.200, N:0.160",Sol. Annealed 1100°C,25,18,Ferrite + Austenite,3×1013,430,680,210,38,0.001,0.22,930
+Duplex Steel,"Cr:21.500, Ni:5.800, Mo:3.000, N:0.140",Sol. Annealed 1050°C,100,12,Ferrite + Austenite,7×1013,470,720,230,32,0.005,0.19,980
+Duplex Steel,"Cr:22.000, Ni:5.500, Mo:3.100, N:0.150",Aged 850°C 2h,25,16,Ferrite + Austenite + σ (trace),6×1013,500,750,245,28,0.001,0.18,1010
+Duplex Steel,"Cr:22.500, Ni:5.200, Mo:3.000, N:0.170",Sol. Annealed 1080°C,-50,17,Ferrite + Austenite,4×1013,440,690,215,36,0.0005,0.21,940
+Duplex Steel,"Cr:23.500, Ni:5.700, Mo:2.900, N:0.140",Sol. Annealed 1120°C,25,20,Ferrite + Austenite,2×1013,420,670,205,40,0.001,0.23,910
+Duplex Steel,"Cr:21.000, Ni:5.300, Mo:3.300, N:0.160",Aged 800°C 3h,150,14,Ferrite + Austenite + X (trace),8×1013,510,760,250,26,0.01,0.17,1030
+Duplex Steel,"Cr:22.800, Ni:5.600, Mo:3.000, N:0.150",Sol. Annealed 1090°C,25,19,Ferrite + Austenite,3.5×1013,435,685,212,37,0.001,0.22,925
+Duplex Steel,"Cr:21.700, Ni:5.100, Mo:3.200, N:0.180",Sol. Annealed 1060°C,50,13,Ferrite + Austenite,6.5×1013,465,715,225,33,0.002,0.2,970
+Duplex Steel,"Cr:22.300, Ni:5.900, Mo:3.100, N:0.140",Aged 875°C 1.5h,25,15.5,Ferrite + Austenite + σ (small),5.5×1013,495,745,240,29,0.001,0.19,1000
+Duplex Steel,"Cr:23.200, Ni:5.400, Mo:3.000, N:0.160",Sol. Annealed 1110°C,-25,19.5,Ferrite + Austenite,2.5×1013,425,675,208,39,0.0008,0.23,915
+Duplex Steel,"Cr:21.300, Ni:5.600, Mo:3.300, N:0.170",Sol. Annealed 1070°C,75,12.5,Ferrite + Austenite,7.5×1013,475,725,235,31,0.003,0.18,990
+Duplex Steel,"Cr:22.600, Ni:5.300, Mo:3.100, N:0.150",Aged 825°C 2.5h,25,16.5,Ferrite + Austenite + X (small),6×1013,505,755,248,27,0.001,0.17,1020
+Duplex Steel,"Cr:23.800, Ni:5.800, Mo:2.900, N:0.140",Sol. Annealed 1130°C,125,21,Ferrite + Austenite,1.5×1013,415,665,200,41,0.001,0.24,900
+Duplex Steel,"Cr:21.900, Ni:5.200, Mo:3.200, N:0.160",Sol. Annealed 1055°C,0,13.5,Ferrite + Austenite,7×1013,460,710,222,34,0.004,0.21,960
+Duplex Steel,"Cr:22.100, Ni:5.700, Mo:3.000, N:0.170",Aged 860°C 2h,25,15.8,Ferrite + Austenite + σ (trace),5.2×1013,490,740,238,30,0.001,0.19,995
+Duplex Steel,"Cr:23.000, Ni:5.500, Mo:3.100, N:0.150",Sol. Annealed 1105°C,-75,18.5,Ferrite + Austenite,3×1013,432,682,211,37.5,0.0007,0.22,928
+Duplex Steel,"Cr:21.600, Ni:5.400, Mo:3.200, N:0.180",Sol. Annealed 1065°C,60,12.8,Ferrite + Austenite,7.2×1013,468,718,228,32.5,0.0025,0.19,975
+Duplex Steel,"Cr:22.400, Ni:5.800, Mo:3.000, N:0.140",Aged 880°C 1.8h,25,15.2,Ferrite + Austenite + σ (small),5.8×1013,498,748,242,28.5,0.001,0.18,1005
+Duplex Steel,"Cr:23.300, Ni:5.300, Mo:3.100, N:0.160",Sol. Annealed 1115°C,110,20.5,Ferrite + Austenite,2.2×1013,422,672,203,40.5,0.001,0.23,905
+Duplex Steel,"Cr:21.400, Ni:5.700, Mo:3.200, N:0.170",Sol. Annealed 1075°C,30,13.2,Ferrite + Austenite,7.8×1013,472,722,232,31.5,0.0035,0.18,985
+Duplex Steel,"Cr:22.700, Ni:5.200, Mo:3.000, N:0.150",Aged 830°C 2.2h,25,16.2,Ferrite + Austenite + X (small),6.2×1013,502,752,246,27.5,0.001,0.17,1015
+Duplex Steel,"Cr:23.900, Ni:5.900, Mo:2.900, N:0.140",Sol. Annealed 1125°C,-60,21.5,Ferrite + Austenite,1.8×1013,418,668,201,40.8,0.0009,0.24,902
+Duplex Steel,"Cr:21.800, Ni:5.100, Mo:3.300, N:0.160",Sol. Annealed 1058°C,80,13.8,Ferrite + Austenite,6.8×1013,458,708,223,33.5,0.0045,0.2,965
+Duplex Steel,"Cr:22.200, Ni:5.600, Mo:3.100, N:0.170",Aged 855°C 1.9h,25,15.5,Ferrite + Austenite + σ (trace),5.3×1013,492,742,239,29.5,0.001,0.19,998
+Duplex Steel,"Cr:23.100, Ni:5.400, Mo:3.000, N:0.150",Sol. Annealed 1103°C,10,19,Ferrite + Austenite,3.1×1013,431,681,210.5,37.2,0.00095,0.22,927
+Duplex Steel,"Cr:21.500, Ni:5.500, Mo:3.200, N:0.175",Sol. Annealed 1068°C,55,12.9,Ferrite + Austenite,7.3×1013,469,719,227.5,32.8,0.0028,0.195,973
+Duplex Steel,"Cr:22.500, Ni:5.700, Mo:3.050, N:0.145",Aged 878°C 1.7h,25,15.3,Ferrite + Austenite + σ (small),5.7×1013,497,747,241.5,28.2,0.001,0.185,1003
+Duplex Steel,"Cr:23.400, Ni:5.200, Mo:3.150, N:0.155",Sol. Annealed 1112°C,-35,20.8,Ferrite + Austenite,2.3×1013,423,673,202.5,40.3,0.00085,0.235,903
+Duplex Steel,"Cr:21.200, Ni:5.800, Mo:3.250, N:0.165",Sol. Annealed 1072°C,65,13.1,Ferrite + Austenite,7.7×1013,473,723,233.5,31.8,0.0032,0.185,987
+Ferritic Steel,"Cr:17.000, Ni:0.100, Mo:0.050, N:0.010",Annealed 870°C,25,30,Ferrite,2×1012,280,450,150,25,0.001,0.25,600
+Ferritic Steel,"Cr:17.500, Ni:0.200, N:0.008",Normalized 920°C,100,35,Ferrite,3×1012,300,480,160,22,0.001,0.23,630
+Ferritic Steel,"Cr:16.500, Ni:0.150, Mo:0.100, N:0.012",Cold Rolled,25,10,Ferrite,1×1014,400,550,180,15,0.01,0.15,700
+Ferritic Steel,"Cr:18.000, Ni:0.080, Mo:0.030, N:0.009",Annealed 850°C,-20,40,Ferrite,1.5×1012,270,440,145,28,0.0005,0.27,580
+Ferritic Steel,"Cr:17.200, Ni:0.120, Mo:0.060, N:0.011",Normalized 900°C,50,32,Ferrite,2.5×1012,290,470,155,23,0.002,0.24,615
+Ferritic Steel,"Cr:16.800, Ni:0.180, Mo:0.040, N:0.013",Tempered 750°C,25,28,Ferrite + Carbides (trace),5×1012,320,500,165,20,0.001,0.22,650
+Ferritic Steel,"Cr:17.800, Ni:0.090, Mo:0.020, N:0.007",Annealed 880°C,120,38,Ferrite,2.2×1012,275,445,148,26,0.0008,0.26,590
+Ferritic Steel,"Cr:16.900, Ni:0.110, Mo:0.070, N:0.014",Normalized 910°C,0,33,Ferrite,2.8×1012,295,475,158,24,0.0015,0.235,620
+Ferritic Steel,"Cr:17.300, Ni:0.160, Mo:0.035, N:0.010",Cold Rolled & Annealed,25,15,Ferrite,5×1013,350,520,170,18,0.005,0.18,680
+Ferritic Steel,"Cr:17.600, Ni:0.070, Mo:0.045, N:0.009",Annealed 860°C,75,42,Ferrite,1.8×1012,265,435,142,29,0.0006,0.28,570
+Ferritic Steel,"Cr:17.100, Ni:0.130, Mo:0.055, N:0.011",Normalized 890°C,30,31,Ferrite,2.6×1012,285,465,153,23.5,0.0012,0.245,610
+Ferritic Steel,"Cr:16.700, Ni:0.190, Mo:0.025, N:0.013",Tempered 760°C,25,29,Ferrite + Carbides (small),6×1012,325,505,168,19.5,0.001,0.215,655
+Ferritic Steel,"Cr:17.900, Ni:0.085, Mo:0.015, N:0.007",Annealed 890°C,-10,39,Ferrite,2.1×1012,272,442,146,27.5,0.0007,0.265,585
+Ferritic Steel,"Cr:17.050, Ni:0.105, Mo:0.065, N:0.011",Normalized 905°C,60,32.5,Ferrite,2.7×1012,292,472,156.5,23.2,0.0018,0.232,618
+Ferritic Steel,"Cr:17.400, Ni:0.170, Mo:0.040, N:0.013",Cold Rolled & Annealed,25,12,Ferrite,4.5×1013,360,530,175,17,0.006,0.175,690
+Ferritic Steel,"Cr:17.700, Ni:0.065, Mo:0.050, N:0.009",Annealed 855°C,90,41,Ferrite,1.7×1012,268,438,143.5,28.5,0.00055,0.275,575
+Ferritic Steel,"Cr:17.150, Ni:0.135, Mo:0.050, N:0.012",Normalized 895°C,40,31.5,Ferrite,2.55×1012,288,468,154.5,23.8,0.0011,0.242,612
+Ferritic Steel,"Cr:16.650, Ni:0.185, Mo:0.035, N:0.013",Tempered 755°C,25,28.5,Ferrite + Carbides (trace),5.5×1012,322,502,166.5,20.2,0.001,0.218,652
+Ferritic Steel,"Cr:17.850, Ni:0.095, Mo:0.010, N:0.008",Annealed 885°C,115,38.5,Ferrite,2.15×1012,273.5,443.5,147,26.5,0.00075,0.262,587
+Ferritic Steel,"Cr:16.950, Ni:0.115, Mo:0.075, N:0.015",Normalized 915°C,5,33.5,Ferrite,2.85×1012,293.5,473.5,157.5,24.5,0.0016,0.238,622
+Ferritic Steel,"Cr:17.350, Ni:0.155, Mo:0.030, N:0.010",Cold Rolled & Annealed,25,14,Ferrite,4.8×1013,355,525,172.5,17.5,0.0055,0.178,685
+Ferritic Steel,"Cr:17.550, Ni:0.075, Mo:0.040, N:0.008",Annealed 865°C,85,41.5,Ferrite,1.75×1012,266.5,436.5,142.8,28.8,0.00058,0.278,572
+Ferritic Steel,"Cr:17.080, Ni:0.125, Mo:0.058, N:0.011",Normalized 892°C,35,31.8,Ferrite,2.58×1012,286.5,466.5,153.8,23.6,0.0013,0.243,611
+Ferritic Steel,"Cr:16.750, Ni:0.195, Mo:0.020, N:0.014",Tempered 765°C,25,29.5,Ferrite + Carbides (small),6.2×1012,327,507,169,19.8,0.001,0.212,658
+Ferritic Steel,"Cr:17.950, Ni:0.082, Mo:0.018, N:0.007",Annealed 895°C,-5,39.5,Ferrite,2.05×1012,271.5,441.5,145.5,27.8,0.00065,0.268,583
+Ferritic Steel,"Cr:16.850, Ni:0.108, Mo:0.072, N:0.014",Normalized 908°C,55,33.2,Ferrite,2.75×1012,294.5,474.5,157,24.2,0.0017,0.233,621
+Ferritic Steel,"Cr:17.250, Ni:0.165, Mo:0.025, N:0.011",Cold Rolled & Annealed,25,13,Ferrite,4.7×1013,358,528,173.5,17.2,0.0058,0.177,688
+Ferritic Steel,"Cr:17.650, Ni:0.072, Mo:0.048, N:0.009",Annealed 858°C,80,40.5,Ferrite,1.78×1012,267.5,437.5,143,28.3,0.00052,0.272,573.5
+Ferritic Steel,"Cr:17.180, Ni:0.132, Mo:0.052, N:0.012",Normalized 898°C,45,31.6,Ferrite,2.52×1012,287.5,467.5,154,23.7,0.00115,0.244,611.5
+Ferritic Steel,"Cr:16.780, Ni:0.192, Mo:0.022, N:0.014",Tempered 762°C,25,29.2,Ferrite + Carbides (small),6.1×1012,326,506,168.5,19.9,0.001,0.213,656.5

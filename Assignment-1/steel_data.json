@@ -1,0 +1,1313 @@
+{
+    "Mechanical Properties.csv": {
+        "": [
+            {
+                "ISO designation / Steel Grade": "X2CrNiN22-2",
+                "Yield_Strength_MPa": 380,
+                "UTS_MPa": "650-900",
+                "Hardness_HB": "-",
+                "Elongation_%": 30,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoSi18-5-3",
+                "Yield_Strength_MPa": 400,
+                "UTS_MPa": "680-900",
+                "Hardness_HB": "260",
+                "Elongation_%": 25,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiN23-4",
+                "Yield_Strength_MPa": 400,
+                "UTS_MPa": "600-830",
+                "Hardness_HB": "260",
+                "Elongation_%": 25,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrMnNiN21-5-1",
+                "Yield_Strength_MPa": 400,
+                "UTS_MPa": "650-900",
+                "Hardness_HB": "250",
+                "Elongation_%": 25,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoN22-5-3",
+                "Yield_Strength_MPa": 450,
+                "UTS_MPa": "650-880",
+                "Hardness_HB": "270",
+                "Elongation_%": 25,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "X3CrNiMoN27-5-2",
+                "Yield_Strength_MPa": 450,
+                "UTS_MPa": "620-680",
+                "Hardness_HB": "260",
+                "Elongation_%": 20,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMnMoCuN24-4-3-2",
+                "Yield_Strength_MPa": 450,
+                "UTS_MPa": "650-900",
+                "Hardness_HB": "-",
+                "Elongation_%": 25,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoCuN25-6-3",
+                "Yield_Strength_MPa": 500,
+                "UTS_MPa": "700-900",
+                "Hardness_HB": "230",
+                "Elongation_%": 25,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoN25-7-4",
+                "Yield_Strength_MPa": 530,
+                "UTS_MPa": "730-930",
+                "Hardness_HB": "290",
+                "Elongation_%": 25,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoCuWN25-7-4",
+                "Yield_Strength_MPa": 530,
+                "UTS_MPa": "730-930",
+                "Hardness_HB": "290",
+                "Elongation_%": 25,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrCuNiN23-2-2",
+                "Yield_Strength_MPa": 400,
+                "UTS_MPa": "650-900",
+                "Hardness_HB": "-",
+                "Elongation_%": 25,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrMnNiMoN21-5-3",
+                "Yield_Strength_MPa": 400,
+                "UTS_MPa": "650-900",
+                "Hardness_HB": "-",
+                "Elongation_%": 25,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoN29-7-2",
+                "Yield_Strength_MPa": 550,
+                "UTS_MPa": "750-1000",
+                "Hardness_HB": "310",
+                "Elongation_%": 25,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoCoN28-8-5-1",
+                "Yield_Strength_MPa": 650,
+                "UTS_MPa": "800-1000",
+                "Hardness_HB": "-",
+                "Elongation_%": 25,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiCuN23-4",
+                "Yield_Strength_MPa": 400,
+                "UTS_MPa": "600-850",
+                "Hardness_HB": "-",
+                "Elongation_%": 20,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "X6CrAl13",
+                "Yield_Strength_MPa": 250,
+                "UTS_MPa": "400",
+                "Hardness_HB": "160",
+                "Elongation_%": 30,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrTi12",
+                "Yield_Strength_MPa": 260,
+                "UTS_MPa": "410",
+                "Hardness_HB": "165",
+                "Elongation_%": 29,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNi12",
+                "Yield_Strength_MPa": 270,
+                "UTS_MPa": "420",
+                "Hardness_HB": "170",
+                "Elongation_%": 28,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "X8Cr17",
+                "Yield_Strength_MPa": 290,
+                "UTS_MPa": "440",
+                "Hardness_HB": "180",
+                "Elongation_%": 26,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrTi18",
+                "Yield_Strength_MPa": 320,
+                "UTS_MPa": "470",
+                "Hardness_HB": "195",
+                "Elongation_%": 23,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrTiNb18",
+                "Yield_Strength_MPa": 330,
+                "UTS_MPa": "480",
+                "Hardness_HB": "200",
+                "Elongation_%": 22,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrMoTi18-2",
+                "Yield_Strength_MPa": 340,
+                "UTS_MPa": "490",
+                "Hardness_HB": "205",
+                "Elongation_%": 21,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrMoNb18",
+                "Yield_Strength_MPa": 350,
+                "UTS_MPa": "500",
+                "Hardness_HB": "210",
+                "Elongation_%": 20,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 434",
+                "Yield_Strength_MPa": 300,
+                "UTS_MPa": "450",
+                "Hardness_HB": "185",
+                "Elongation_%": 25,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 429",
+                "Yield_Strength_MPa": 280,
+                "UTS_MPa": "430",
+                "Hardness_HB": "165",
+                "Elongation_%": 27,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 436",
+                "Yield_Strength_MPa": 310,
+                "UTS_MPa": "460",
+                "Hardness_HB": "190",
+                "Elongation_%": 24,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 447",
+                "Yield_Strength_MPa": 360,
+                "UTS_MPa": "510",
+                "Hardness_HB": "215",
+                "Elongation_%": 19,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 448",
+                "Yield_Strength_MPa": 370,
+                "UTS_MPa": "520",
+                "Hardness_HB": "250",
+                "Elongation_%": 18,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 449",
+                "Yield_Strength_MPa": 380,
+                "UTS_MPa": "530",
+                "Hardness_HB": "225",
+                "Elongation_%": 17,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 450",
+                "Yield_Strength_MPa": 390,
+                "UTS_MPa": "540",
+                "Hardness_HB": "230",
+                "Elongation_%": 16,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 451",
+                "Yield_Strength_MPa": 400,
+                "UTS_MPa": "550",
+                "Hardness_HB": "235",
+                "Elongation_%": 15,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 452",
+                "Yield_Strength_MPa": 410,
+                "UTS_MPa": "560",
+                "Hardness_HB": "240",
+                "Elongation_%": 14,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 453",
+                "Yield_Strength_MPa": 420,
+                "UTS_MPa": "570",
+                "Hardness_HB": "245",
+                "Elongation_%": 13,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 454",
+                "Yield_Strength_MPa": 430,
+                "UTS_MPa": "580",
+                "Hardness_HB": "250",
+                "Elongation_%": 12,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 455",
+                "Yield_Strength_MPa": 440,
+                "UTS_MPa": "590",
+                "Hardness_HB": "260",
+                "Elongation_%": 11,
+                " Test_Temp_deg.C": 25,
+                "Strain Rate_s^-1": 0.001
+            }
+        ]
+    },
+    "Metadata.csv": {
+        "": [
+            {
+                "ISO designation / Steel Grade": "X2CrNiN22-2",
+                "EN Number": "1.4062",
+                "Source citation": "EN 10088-1, EN 10088-3, Wikipedia",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoSi18-5-3",
+                "EN Number": "1.4424",
+                "Source citation": "EN 10088-1, steelnumber.com, Wikipedia",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiN23-4",
+                "EN Number": "1.4362",
+                "Source citation": "EN 10088-1, steelnumber.com, Wikipedia",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrMnNiN21-5-1",
+                "EN Number": "1.4162",
+                "Source citation": "EN 10088-1, steelnumber.com, Wikipedia",
+                "Processing history": "A, F ",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoN22-5-3",
+                "EN Number": "1.4462",
+                "Source citation": "EN 10088-1, steelnumber.com, Wikipedia",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "X3CrNiMoN27-5-2",
+                "EN Number": "1.446",
+                "Source citation": "EN 10088-1, steelnumber.com, Wikipedia",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMnMoCuN24-4-3-2",
+                "EN Number": "1.4662",
+                "Source citation": "EN 10088-1, EN 10088-3, Wikipedia",
+                "Processing history": "A, F ",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoCuN25-6-3",
+                "EN Number": "1.4507",
+                "Source citation": "EN 10088-1, steelnumber.com, Wikipedia",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoN25-7-4",
+                "EN Number": "1.441",
+                "Source citation": "EN 10088-1, steelnumber.com, Wikipedia",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoCuWN25-7-4",
+                "EN Number": "1.4501",
+                "Source citation": "EN 10088-1, steelnumber.com, Wikipedia",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrCuNiN23-2-2",
+                "EN Number": "1.4669",
+                "Source citation": "EN 10088-1, EN 10088-5, Wikipedia",
+                "Processing history": "A, F ",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrMnNiMoN21-5-3",
+                "EN Number": NaN,
+                "Source citation": "EN 10088-1, EN 10088-3, Wikipedia",
+                "Processing history": "A, F ",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoN29-7-2",
+                "EN Number": "1.446",
+                "Source citation": "EN 10088-1, steelnumber.com, Wikipedia",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoCoN28-8-5-1",
+                "EN Number": "1.4477",
+                "Source citation": "EN 10088-1, EN 10088-5, Wikipedia",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiCuN23-4",
+                "EN Number": "1.4658",
+                "Source citation": "EN 10088-1, EN 10088-5, Wikipedia",
+                "Processing history": "A",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "X6CrAl13",
+                "EN Number": "1.4002",
+                "Source citation": "EN 10088-1, EN 10088-2",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrTi12",
+                "EN Number": "1.4512",
+                "Source citation": "EN 10088-1, EN 10088-2",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNi12",
+                "EN Number": "1.4003",
+                "Source citation": "EN 10088-1, EN 10088-2",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "X8Cr17",
+                "EN Number": "1.4016",
+                "Source citation": "EN 10088-1, EN 10088-2",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrTi18",
+                "EN Number": "1.4511",
+                "Source citation": "EN 10088-1, EN 10088-2",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrTiNb18",
+                "EN Number": "1.4509",
+                "Source citation": "EN 10088-1, EN 10088-2",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrMoTi18-2",
+                "EN Number": "1.4521",
+                "Source citation": "EN 10088-1, EN 10088-2",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrMoNb18",
+                "EN Number": "1.4526",
+                "Source citation": "EN 10088-1, EN 10088-2",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 434",
+                "EN Number": "S43400",
+                "Source citation": "ASTM A240, UNS",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 429",
+                "EN Number": "S42900",
+                "Source citation": "ASTM A240, UNS",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 436",
+                "EN Number": "S43600",
+                "Source citation": "ASTM A240, UNS",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 447",
+                "EN Number": "S44700",
+                "Source citation": "ASTM A240, UNS",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 448",
+                "EN Number": "S44800",
+                "Source citation": "ASTM A240, UNS",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 449",
+                "EN Number": "S44900",
+                "Source citation": "ASTM A240, UNS",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 450",
+                "EN Number": "S45000",
+                "Source citation": "ASTM A240, UNS",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 451",
+                "EN Number": "S45100",
+                "Source citation": "ASTM A240, UNS",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 452",
+                "EN Number": "S45200",
+                "Source citation": "ASTM A240, UNS",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 453",
+                "EN Number": "S45300",
+                "Source citation": "ASTM A240, UNS",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 454",
+                "EN Number": "S45400",
+                "Source citation": "ASTM A240, UNS",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 455",
+                "EN Number": "S45500",
+                "Source citation": "ASTM A240, UNS",
+                "Processing history": "A, HR",
+                "Test conditions": "Std."
+            }
+        ]
+    },
+    "Microstructural Information.csv": {
+        "": [
+            {
+                "ISO designation / Steel Grade": "X2CrNiN22-2",
+                "Grain Size": "-",
+                "Phases reported": "Austenite, Ferrite",
+                "Phase identifi cation": "Duplex Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoSi18-5-3",
+                "Grain Size": "-",
+                "Phases reported": "-",
+                "Phase identifi cation": "-"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiN23-4",
+                "Grain Size": "-",
+                "Phases reported": "Austenite, Ferrite",
+                "Phase identifi cation": "Duplex Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrMnNiN21-5-1",
+                "Grain Size": "-",
+                "Phases reported": "Austenite, Ferrite",
+                "Phase identifi cation": "Lean Duplex Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoN22-5-3",
+                "Grain Size": "-",
+                "Phases reported": "Austenite, Ferrite, Sigma Phase",
+                "Phase identifi cation": "Duplex Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "X3CrNiMoN27-5-2",
+                "Grain Size": "-",
+                "Phases reported": "Austenite, Ferrite",
+                "Phase identifi cation": "Duplex Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMnMoCuN24-4-3-2",
+                "Grain Size": "-",
+                "Phases reported": "-",
+                "Phase identifi cation": "-"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoCuN25-6-3",
+                "Grain Size": "-",
+                "Phases reported": "Austenite, Ferrite",
+                "Phase identifi cation": "Super Duplex Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoN25-7-4",
+                "Grain Size": "-",
+                "Phases reported": "Austenite, Ferrite, Sigma Phase",
+                "Phase identifi cation": "Super Duplex Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoCuWN25-7-4",
+                "Grain Size": "-",
+                "Phases reported": "Austenite, Ferrite",
+                "Phase identifi cation": "Super Duplex"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrCuNiN23-2-2",
+                "Grain Size": "-",
+                "Phases reported": "-",
+                "Phase identifi cation": "-"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrMnNiMoN21-5-3",
+                "Grain Size": "-",
+                "Phases reported": "Austenite, Ferrite",
+                "Phase identifi cation": "Duplex Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoN29-7-2",
+                "Grain Size": "-",
+                "Phases reported": "Austenite, Ferrite",
+                "Phase identifi cation": "Duplex Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoCoN28-8-5-1",
+                "Grain Size": "-",
+                "Phases reported": "Austenite, Ferrite",
+                "Phase identifi cation": "Duplex Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiCuN23-4",
+                "Grain Size": "-",
+                "Phases reported": "-",
+                "Phase identifi cation": "-"
+            },
+            {
+                "ISO designation / Steel Grade": "X6CrAl13",
+                "Grain Size": "-",
+                "Phases reported": "Ferrite",
+                "Phase identifi cation": "Ferritic Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrTi12",
+                "Grain Size": "-",
+                "Phases reported": "Ferrite",
+                "Phase identifi cation": "Ferritic Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNi12",
+                "Grain Size": "-",
+                "Phases reported": "Ferrite",
+                "Phase identifi cation": "Ferritic Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "X8Cr17",
+                "Grain Size": "-",
+                "Phases reported": "Ferrite",
+                "Phase identifi cation": "Ferritic Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrTi18",
+                "Grain Size": "-",
+                "Phases reported": "Ferrite",
+                "Phase identifi cation": "Ferritic Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrTiNb18",
+                "Grain Size": "-",
+                "Phases reported": "Ferrite",
+                "Phase identifi cation": "Ferritic Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrMoTi18-2",
+                "Grain Size": "-",
+                "Phases reported": "Ferrite",
+                "Phase identifi cation": "Ferritic Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrMoNb18",
+                "Grain Size": "-",
+                "Phases reported": "Ferrite",
+                "Phase identifi cation": "Ferritic Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 434",
+                "Grain Size": "-",
+                "Phases reported": "Ferrite",
+                "Phase identifi cation": "Ferritic Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 429",
+                "Grain Size": "-",
+                "Phases reported": "Ferrite",
+                "Phase identifi cation": "Ferritic Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 436",
+                "Grain Size": "-",
+                "Phases reported": "Ferrite",
+                "Phase identifi cation": "Ferritic Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 447",
+                "Grain Size": "-",
+                "Phases reported": "Ferrite",
+                "Phase identifi cation": "Ferritic Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 448",
+                "Grain Size": "-",
+                "Phases reported": "Ferrite",
+                "Phase identifi cation": "Ferritic Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 449",
+                "Grain Size": "-",
+                "Phases reported": "Ferrite",
+                "Phase identifi cation": "Ferritic Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 450",
+                "Grain Size": "-",
+                "Phases reported": "Ferrite",
+                "Phase identifi cation": "Ferritic Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 451",
+                "Grain Size": "-",
+                "Phases reported": "Ferrite",
+                "Phase identifi cation": "Ferritic Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 452",
+                "Grain Size": "-",
+                "Phases reported": "Ferrite",
+                "Phase identifi cation": "Ferritic Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 453",
+                "Grain Size": "-",
+                "Phases reported": "Ferrite",
+                "Phase identifi cation": "Ferritic Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 454",
+                "Grain Size": "-",
+                "Phases reported": "Ferrite",
+                "Phase identifi cation": "Ferritic Stainless Steel"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 455",
+                "Grain Size": "-",
+                "Phases reported": "Ferrite",
+                "Phase identifi cation": "Ferritic Stainless Steel"
+            }
+        ]
+    },
+    " Composition": {
+        "": [
+            {
+                "ISO designation / Steel Grade": "X2CrNiN22-2",
+                "Fe_min": 30.71,
+                "C_max": 0.03,
+                "Si_max": 1.0,
+                "Mn_max": 2.0,
+                "P_max": 0.04,
+                "S_max": 0.01,
+                "N_max": 0.28,
+                "Cr_max": "24",
+                "Cu_max": 0.0,
+                "Mo_max": 0.45,
+                "Ni_max": 2.9,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoSi18-5-3",
+                "Fe_min": 31.68,
+                "C_max": 0.03,
+                "Si_max": 2.0,
+                "Mn_max": 2.0,
+                "P_max": 0.035,
+                "S_max": 0.015,
+                "N_max": 0.1,
+                "Cr_max": "19",
+                "Cu_max": 0.0,
+                "Mo_max": 3.0,
+                "Ni_max": 5.5,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiN23-4",
+                "Fe_min": 34.48,
+                "C_max": 0.03,
+                "Si_max": 1.0,
+                "Mn_max": 2.0,
+                "P_max": 0.035,
+                "S_max": 0.015,
+                "N_max": 0.2,
+                "Cr_max": "24.5",
+                "Cu_max": 0.6,
+                "Mo_max": 0.6,
+                "Ni_max": 5.5,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrMnNiN21-5-1",
+                "Fe_min": 32.845,
+                "C_max": 0.04,
+                "Si_max": 1.0,
+                "Mn_max": 6.0,
+                "P_max": 0.04,
+                "S_max": 0.015,
+                "N_max": 0.25,
+                "Cr_max": "22",
+                "Cu_max": 0.8,
+                "Mo_max": 0.8,
+                "Ni_max": 1.9,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoN22-5-3",
+                "Fe_min": 36.3,
+                "C_max": 0.03,
+                "Si_max": 1.0,
+                "Mn_max": 2.0,
+                "P_max": 0.035,
+                "S_max": 0.015,
+                "N_max": 0.22,
+                "Cr_max": "23",
+                "Cu_max": 0.0,
+                "Mo_max": 3.5,
+                "Ni_max": 6.5,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "X3CrNiMoN27-5-2",
+                "Fe_min": 39.8,
+                "C_max": 0.05,
+                "Si_max": 1.0,
+                "Mn_max": 2.0,
+                "P_max": 0.035,
+                "S_max": 0.015,
+                "N_max": 0.2,
+                "Cr_max": "28",
+                "Cu_max": 0.0,
+                "Mo_max": 2.0,
+                "Ni_max": 6.5,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMnMoCuN24-4-3-2",
+                "Fe_min": 37.37,
+                "C_max": 0.03,
+                "Si_max": 0.7,
+                "Mn_max": 4.0,
+                "P_max": 0.035,
+                "S_max": 0.005,
+                "N_max": 0.3,
+                "Cr_max": "25",
+                "Cu_max": 0.8,
+                "Mo_max": 2.0,
+                "Ni_max": 4.5,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoCuN25-6-3",
+                "Fe_min": 43.58,
+                "C_max": 0.03,
+                "Si_max": 0.7,
+                "Mn_max": 2.0,
+                "P_max": 0.035,
+                "S_max": 0.015,
+                "N_max": 0.3,
+                "Cr_max": "26",
+                "Cu_max": 2.5,
+                "Mo_max": 4.0,
+                "Ni_max": 8.0,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoN25-7-4",
+                "Fe_min": 41.93,
+                "C_max": 0.03,
+                "Si_max": 1.0,
+                "Mn_max": 2.0,
+                "P_max": 0.035,
+                "S_max": 0.015,
+                "N_max": 0.35,
+                "Cr_max": "26",
+                "Cu_max": 0.0,
+                "Mo_max": 4.5,
+                "Ni_max": 8.0,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoCuWN25-7-4",
+                "Fe_min": 41.38,
+                "C_max": 0.03,
+                "Si_max": 1.0,
+                "Mn_max": 1.0,
+                "P_max": 0.035,
+                "S_max": 0.015,
+                "N_max": 0.3,
+                "Cr_max": "26",
+                "Cu_max": 1.0,
+                "Mo_max": 4.0,
+                "Ni_max": 8.0,
+                "Other": "(W) 1"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrCuNiN23-2-2",
+                "Fe_min": 31.815,
+                "C_max": NaN,
+                "Si_max": 0.045,
+                "Mn_max": 1.0,
+                "P_max": 3.0,
+                "S_max": 0.04,
+                "N_max": 0.03,
+                "Cr_max": "0.2",
+                "Cu_max": 24.0,
+                "Mo_max": 3.0,
+                "Ni_max": 0.5,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrMnNiMoN21-5-3",
+                "Fe_min": 33.868,
+                "C_max": 0.003,
+                "Si_max": 1.0,
+                "Mn_max": 6.0,
+                "P_max": 0.035,
+                "S_max": 0.03,
+                "N_max": 0.2,
+                "Cr_max": "21.5",
+                "Cu_max": 1.0,
+                "Mo_max": 0.6,
+                "Ni_max": 3.5,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoN29-7-2",
+                "Fe_min": 43.375,
+                "C_max": 0.03,
+                "Si_max": 0.5,
+                "Mn_max": 1.5,
+                "P_max": 0.03,
+                "S_max": 0.015,
+                "N_max": 0.4,
+                "Cr_max": "30",
+                "Cu_max": 0.8,
+                "Mo_max": 2.6,
+                "Ni_max": 7.5,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiMoCoN28-8-5-1",
+                "Fe_min": 47.075,
+                "C_max": 0.03,
+                "Si_max": 0.5,
+                "Mn_max": 1.5,
+                "P_max": 0.035,
+                "S_max": 0.01,
+                "N_max": 0.5,
+                "Cr_max": "29",
+                "Cu_max": 1.0,
+                "Mo_max": 5.0,
+                "Ni_max": 9.5,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNiCuN23-4",
+                "Fe_min": 36.38,
+                "C_max": 0.03,
+                "Si_max": 1.0,
+                "Mn_max": 2.0,
+                "P_max": 0.035,
+                "S_max": 0.015,
+                "N_max": 0.2,
+                "Cr_max": "24",
+                "Cu_max": 3.0,
+                "Mo_max": 0.6,
+                "Ni_max": 5.5,
+                "Other": "-"
+            },
+            {
+                "ISO designation / Steel Grade": "X6CrAl13",
+                "Fe_min": 17.215,
+                "C_max": 0.8,
+                "Si_max": 1.0,
+                "Mn_max": 1.0,
+                "P_max": 0.4,
+                "S_max": 0.015,
+                "N_max": 0.0,
+                "Cr_max": "14",
+                "Cu_max": 0.0,
+                "Mo_max": 0.0,
+                "Ni_max": 0.0,
+                "Other": "(Al) 0.3"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrTi12",
+                "Fe_min": 45976.73,
+                "C_max": 0.3,
+                "Si_max": 1.0,
+                "Mn_max": 1.0,
+                "P_max": 0.4,
+                "S_max": 0.03,
+                "N_max": 0.0,
+                "Cr_max": "2025-11-13 00:00:00",
+                "Cu_max": 0.0,
+                "Mo_max": 0.0,
+                "Ni_max": 0.0,
+                "Other": "(Ti) 0.3"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrNi12",
+                "Fe_min": 45979.23,
+                "C_max": 0.3,
+                "Si_max": 1.0,
+                "Mn_max": 1.0,
+                "P_max": 0.4,
+                "S_max": 0.03,
+                "N_max": 0.0,
+                "Cr_max": "2025-11-13 00:00:00",
+                "Cu_max": 0.0,
+                "Mo_max": 0.0,
+                "Ni_max": 2.5,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "X8Cr17",
+                "Fe_min": 21.23,
+                "C_max": 0.8,
+                "Si_max": 1.0,
+                "Mn_max": 1.0,
+                "P_max": 0.4,
+                "S_max": 0.03,
+                "N_max": 0.0,
+                "Cr_max": "18",
+                "Cu_max": 0.0,
+                "Mo_max": 0.0,
+                "Ni_max": 0.0,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrTi18",
+                "Fe_min": 21.73,
+                "C_max": 0.3,
+                "Si_max": 1.0,
+                "Mn_max": 1.0,
+                "P_max": 0.4,
+                "S_max": 0.03,
+                "N_max": 0.0,
+                "Cr_max": "19",
+                "Cu_max": 0.0,
+                "Mo_max": 0.0,
+                "Ni_max": 0.0,
+                "Other": "(Ti) 0.3"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrTiNb18",
+                "Fe_min": 21.73,
+                "C_max": 0.3,
+                "Si_max": 1.0,
+                "Mn_max": 1.0,
+                "P_max": 0.4,
+                "S_max": 0.03,
+                "N_max": 0.0,
+                "Cr_max": "19",
+                "Cu_max": 0.0,
+                "Mo_max": 0.0,
+                "Ni_max": 0.0,
+                "Other": "(Ti) 0.30, (Nb) 0.30"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrMoTi18-2",
+                "Fe_min": 23.23,
+                "C_max": 0.3,
+                "Si_max": 1.0,
+                "Mn_max": 1.0,
+                "P_max": 0.4,
+                "S_max": 0.03,
+                "N_max": 0.0,
+                "Cr_max": "19",
+                "Cu_max": 0.0,
+                "Mo_max": 1.5,
+                "Ni_max": 0.0,
+                "Other": "(Ti) 0.30"
+            },
+            {
+                "ISO designation / Steel Grade": "X2CrMoNb18",
+                "Fe_min": 23.23,
+                "C_max": 0.3,
+                "Si_max": 1.0,
+                "Mn_max": 1.0,
+                "P_max": 0.4,
+                "S_max": 0.03,
+                "N_max": 0.0,
+                "Cr_max": "19",
+                "Cu_max": 0.0,
+                "Mo_max": 1.5,
+                "Ni_max": 0.0,
+                "Other": "(Nb) 0.30"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 434",
+                "Fe_min": 21.8,
+                "C_max": 0.12,
+                "Si_max": 1.0,
+                "Mn_max": 1.0,
+                "P_max": 0.4,
+                "S_max": 0.03,
+                "N_max": 0.0,
+                "Cr_max": "18",
+                "Cu_max": 0.0,
+                "Mo_max": 1.25,
+                "Ni_max": 0.0,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 429",
+                "Fe_min": 18.55,
+                "C_max": 0.12,
+                "Si_max": 1.0,
+                "Mn_max": 1.0,
+                "P_max": 0.4,
+                "S_max": 0.03,
+                "N_max": 0.0,
+                "Cr_max": "16",
+                "Cu_max": 0.0,
+                "Mo_max": 0.0,
+                "Ni_max": 0.0,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 436",
+                "Fe_min": 20.55,
+                "C_max": 0.12,
+                "Si_max": 1.0,
+                "Mn_max": 1.0,
+                "P_max": 0.4,
+                "S_max": 0.03,
+                "N_max": 0.0,
+                "Cr_max": "18",
+                "Cu_max": 0.0,
+                "Mo_max": 0.0,
+                "Ni_max": 0.0,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 447",
+                "Fe_min": 32.55,
+                "C_max": 0.12,
+                "Si_max": 1.0,
+                "Mn_max": 1.0,
+                "P_max": 0.4,
+                "S_max": 0.03,
+                "N_max": 0.0,
+                "Cr_max": "30",
+                "Cu_max": 0.0,
+                "Mo_max": 0.0,
+                "Ni_max": 0.0,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 448",
+                "Fe_min": 32.55,
+                "C_max": 0.12,
+                "Si_max": 1.0,
+                "Mn_max": 1.0,
+                "P_max": 0.4,
+                "S_max": 0.03,
+                "N_max": 0.0,
+                "Cr_max": "30",
+                "Cu_max": 0.0,
+                "Mo_max": 0.0,
+                "Ni_max": 0.0,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 449",
+                "Fe_min": 32.55,
+                "C_max": 0.12,
+                "Si_max": 1.0,
+                "Mn_max": 1.0,
+                "P_max": 0.4,
+                "S_max": 0.03,
+                "N_max": 0.0,
+                "Cr_max": "30",
+                "Cu_max": 0.0,
+                "Mo_max": 0.0,
+                "Ni_max": 0.0,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 450",
+                "Fe_min": 32.55,
+                "C_max": 0.12,
+                "Si_max": 1.0,
+                "Mn_max": 1.0,
+                "P_max": 0.4,
+                "S_max": 0.03,
+                "N_max": 0.0,
+                "Cr_max": "30",
+                "Cu_max": 0.0,
+                "Mo_max": 0.0,
+                "Ni_max": 0.0,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 451",
+                "Fe_min": 32.55,
+                "C_max": 0.12,
+                "Si_max": 1.0,
+                "Mn_max": 1.0,
+                "P_max": 0.4,
+                "S_max": 0.03,
+                "N_max": 0.0,
+                "Cr_max": "30",
+                "Cu_max": 0.0,
+                "Mo_max": 0.0,
+                "Ni_max": 0.0,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 452",
+                "Fe_min": 32.55,
+                "C_max": 0.12,
+                "Si_max": 1.0,
+                "Mn_max": 1.0,
+                "P_max": 0.4,
+                "S_max": 0.03,
+                "N_max": 0.0,
+                "Cr_max": "30",
+                "Cu_max": 0.0,
+                "Mo_max": 0.0,
+                "Ni_max": 0.0,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 453",
+                "Fe_min": 32.55,
+                "C_max": 0.12,
+                "Si_max": 1.0,
+                "Mn_max": 1.0,
+                "P_max": 0.4,
+                "S_max": 0.03,
+                "N_max": 0.0,
+                "Cr_max": "30",
+                "Cu_max": 0.0,
+                "Mo_max": 0.0,
+                "Ni_max": 0.0,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 454",
+                "Fe_min": 32.55,
+                "C_max": 0.12,
+                "Si_max": 1.0,
+                "Mn_max": 1.0,
+                "P_max": 0.4,
+                "S_max": 0.03,
+                "N_max": 0.0,
+                "Cr_max": "30",
+                "Cu_max": 0.0,
+                "Mo_max": 0.0,
+                "Ni_max": 0.0,
+                "Other": "0"
+            },
+            {
+                "ISO designation / Steel Grade": "AISI 455",
+                "Fe_min": 32.55,
+                "C_max": 0.12,
+                "Si_max": 1.0,
+                "Mn_max": 1.0,
+                "P_max": 0.4,
+                "S_max": 0.03,
+                "N_max": 0.0,
+                "Cr_max": "30",
+                "Cu_max": 0.0,
+                "Mo_max": 0.0,
+                "Ni_max": 0.0,
+                "Other": "0"
+            }
+        ]
+    }
+}

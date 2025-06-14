@@ -1,0 +1,15 @@
+Steel Type,Chemical Composition (%),Heat Treatment,Test Temp (°C),Phases,YS (MPa),UTS (MPa),Hardness (HV),Elongation (%),Strain Rate (s⁻¹)
+X2CrNiN22-2,"C:0.03, Si:1, Mn:2, P:0.04, S:0.01, N:0.28, Cr:24, Cu:0, Mo:0.45, Ni:2.9, Other:0","A, HR",25,"Austenite, Ferrite",380,650-900,,30,0.001
+X2CrNiMoSi18-5-3,"C:0.03, Si:2, Mn:2, P:0.035, S:0.015, N:0.1, Cr:19, Cu:0, Mo:3, Ni:5.5, Other:0","A, HR",25,-,400,680-900,257,25,0.001
+X2CrNiN23-4,"C:0.03, Si:1, Mn:2, P:0.035, S:0.015, N:0.2, Cr:24.5, Cu:0.6, Mo:0.6, Ni:5.5, Other:0","A, HR",25,"Austenite, Ferrite",400,600-830,257,25,0.001
+X2CrMnNiN21-5-1,"C:0.04, Si:1, Mn:6, P:0.04, S:0.015, N:0.25, Cr:22, Cu:0.8, Mo:0.8, Ni:1.9, Other:0","A, F ",25,"Austenite, Ferrite",400,650-900,248,25,0.001
+X2CrNiMoN22-5-3,"C:0.03, Si:1, Mn:2, P:0.035, S:0.015, N:0.22, Cr:23, Cu:0, Mo:3.5, Ni:6.5, Other:0","A, HR",25,"Austenite, Ferrite, Sigma Phase",450,650-880,267,25,0.001
+X3CrNiMoN27-5-2,"C:0.05, Si:1, Mn:2, P:0.035, S:0.015, N:0.2, Cr:28, Cu:0, Mo:2, Ni:6.5, Other:0","A, HR",25,"Austenite, Ferrite",450,620-680,257,20,0.001
+X2CrNiMnMoCuN24-4-3-2,"C:0.03, Si:0.7, Mn:4, P:0.035, S:0.005, N:0.3, Cr:25, Cu:0.8, Mo:2, Ni:4.5, Other:0","A, F ",25,-,450,650-900,,25,0.001
+X2CrNiMoCuN25-6-3,"C:0.03, Si:0.7, Mn:2, P:0.035, S:0.015, N:0.3, Cr:26, Cu:2.5, Mo:4, Ni:8, Other:0","A, HR",25,"Austenite, Ferrite",500,700-900,229,25,0.001
+X2CrNiMoN25-7-4,"C:0.03, Si:1, Mn:2, P:0.035, S:0.015, N:0.35, Cr:26, Cu:0, Mo:4.5, Ni:8, Other:0","A, HR",25,"Austenite, Ferrite, Sigma Phase",530,730-930,286,25,0.001
+X2CrNiMoCuWN25-7-4,"C:0.03, Si:1, Mn:1, P:0.035, S:0.015, N:0.3, Cr:26, Cu:1, Mo:4, Ni:8, Other:(W) 1","A, HR",25,"Austenite, Ferrite",530,730-930,286,25,0.001
+X2CrCuNiN23-2-2,"C:, Si:0.045, Mn:1, P:3, S:0.04, N:0.03, Cr:0.2, Cu:24, Mo:3, Ni:0.5, Other:0","A, F ",25,-,400,650-900,,25,0.001
+X2CrMnNiMoN21-5-3,"C:0.003, Si:1, Mn:6, P:0.035, S:0.03, N:0.2, Cr:21.5, Cu:1, Mo:0.6, Ni:3.5, Other:0","A, F ",25,"Austenite, Ferrite",400,650-900,,25,0.001
+X2CrNiMoN29-7-2,"C:0.03, Si:0.5, Mn:1.5, P:0.03, S:0.015, N:0.4, Cr:30, Cu:0.8, Mo:2.6, Ni:7.5, Other:0","A, HR",25,"Austenite, Ferrite",550,750-1000,305,25,0.001
+X2CrNiMoCoN28-8-5-1,"C:0.03, Si:0.5, Mn:1.5, P:0.035, S:0.01, N:0.5, Cr:29, Cu:1, Mo:5, Ni:9.5, Other:0","A, HR",25,"Austenite, Ferrite",650,800-1000,,25,0.001

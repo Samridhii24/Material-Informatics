@@ -1,0 +1,61 @@
+Steel Type,Chemical Composition (%),Heat Treatment,Test Temp (°C),Grain Size (µm),Phases,Dislocation Density (m⁻²),YS (MPa),UTS (MPa),Hardness (HV),Elongation (%),Strain Rate (s⁻¹),Strain Hardening Exponent (n),"Strain Hardening Coefficient (K, MPa)"
+Duplex,"Cr:22.1, Ni:5.2, Mo:2.9",Annealed @1020°C,150,10.1,Austenite + Ferrite,,411,779,295,22.5,0.001,0.19,1194
+Duplex,"Cr:22.1, Ni:5.4, Mo:2.8",Aged @ 700°C,200,8.3,Ferrite + σ,1.20E+14,493,681,,18.9,0.0005,,1058
+Duplex,"Cr:22.3, Ni:5.7, Mo:3.2",Aged @ 650°C,200,11,Ferrite + σ,1.00E+14,519,668,270,18.4,0.0005,0.22,1175
+Duplex,"Cr:22.2, Ni:5.2, Mo:3.2",Aged @ 700°C,200,6.4,Ferrite + σ,1.00E+14,513,767,268,21.6,0.0005,0.2,1035
+Duplex,"Cr:21.8, Ni:5.2, Mo:2.8",Annealed,150,,Ferrite dominant,1.20E+14,432,652,267,21.4,0.0005,0.2,1184
+Duplex,"Cr:21.9, Ni:5.5, Mo:2.8",Solution Annealed @ 1050°C,200,9,Ferrite + σ,1.30E+14,499,650,,25.3,0.0005,0.18,
+Duplex,"Cr:22.0, Ni:5.2, Mo:3.2",Aged @ 700°C,150,8.9,Ferrite + σ,1.20E+14,427,701,285,22.5,0.0005,0.18,1150
+Duplex,"Cr:22.1, Ni:5.2, Mo:3.1",Solution Annealed @ 1050°C,,6.2,Ferrite + Austenite,1.00E+14,469,771,290,,0.0005,0.2,1013
+Duplex,"Cr:22.3, Ni:5.3, Mo:2.9",Quenched,25,7.1,Ferrite dominant,9.90E+13,511,763,,22.5,0.001,0.24,1042
+Duplex,"Cr:22.0, Ni:5.7, Mo:3.2",Annealed @1020°C,,8.3,Ferrite dominant,1.00E+14,493,774,278,16.6,0.001,0.17,1128
+Duplex,"Cr:22.0, Ni:5.2, Mo:3.0",Aged @ 700°C,,6.4,Ferrite dominant,9.60E+13,431,660,286,21.7,0.0005,0.22,1101
+Duplex,"Cr:22.1, Ni:5.5, Mo:3.3",Solution Annealed @ 1050°C,25,12,Austenite + Ferrite,1.20E+14,416,667,283,20.4,0.0005,0.25,1002
+Duplex,"Cr:22.0, Ni:5.8, Mo:2.8",Annealed @1020°C,200,6.6,Ferrite + σ,1.00E+14,443,717,276,,0.0005,0.16,1033
+Duplex,"Cr:21.9, Ni:5.6, Mo:3.0",Aged @ 650°C,,6.5,Ferrite + Austenite,1.20E+14,474,760,279,25.3,0.001,0.18,1026
+Duplex,"Cr:22.0, Ni:5.7, Mo:3.3",Annealed,150,7.4,Ferrite + Austenite,,494,755,307,18.7,0.001,0.16,1051
+Duplex,"Cr:22.0, Ni:5.4, Mo:3.2",Annealed @1020°C,,7.2,Austenite + Ferrite,1.40E+14,482,734,267,18.6,,0.21,1080
+Duplex,"Cr:22.3, Ni:5.3, Mo:3.2",Annealed @1020°C,,8.6,Ferrite + Austenite,,485,730,267,19,0.0005,0.22,1049
+Duplex,"Cr:22.3, Ni:5.6, Mo:3.2",Quenched & Aged @ 600°C,350,,Ferrite + σ,1.00E+14,477,769,303,20.7,0.001,0.19,1158
+Duplex,"Cr:22.2, Ni:5.7, Mo:3.1",Annealed @1020°C,150,6.3,Austenite + Ferrite,1.10E+14,473,748,275,22.9,0.001,0.18,1178
+Duplex,"Cr:21.7, Ni:5.3, Mo:3.2",Aged @ 650°C,150,10,Ferrite + σ,1.40E+14,478,779,295,17.6,0.0005,0.18,1196
+Duplex,"Cr:22.0, Ni:5.3, Mo:3.0",Annealed,200,8,Austenite + Ferrite,9.70E+13,488,,286,,0.0005,0.23,1005
+Duplex,"Cr:22.2, Ni:5.4, Mo:2.7",Quenched,200,11.1,Ferrite dominant,1.20E+14,502,706,277,16.3,0.0005,0.24,1159
+Duplex,"Cr:22.2, Ni:5.6, Mo:3.1",Solution Annealed @ 1050°C,300,,Ferrite dominant,1.10E+14,443,747,286,,0.001,0.19,1199
+Duplex,"Cr:21.7, Ni:5.2, Mo:2.8",Aged @ 700°C,25,7.4,Austenite + Ferrite,1.20E+14,489,744,298,23.2,0.001,,1079
+Duplex,"Cr:22.2, Ni:5.4, Mo:3.3",Annealed @1020°C,25,11,Ferrite + σ,1.30E+14,415,660,287,16.7,0.001,0.23,1092
+Duplex,"Cr:22.2, Ni:5.6, Mo:3.0",Annealed,350,7.6,Ferrite dominant,1.10E+14,475,712,265,20.5,0.0005,0.2,1124
+Duplex,"Cr:22.2, Ni:5.4, Mo:3.2",Annealed,200,9.1,Ferrite + Austenite,1.30E+14,497,771,291,16.2,0.0005,0.19,1121
+Duplex,"Cr:21.9, Ni:5.8, Mo:3.0",Quenched,300,7.5,Ferrite + Austenite,1.10E+14,497,699,290,21.9,0.0005,0.23,1092
+Duplex,"Cr:21.7, Ni:5.5, Mo:2.9",Solution Annealed @ 1050°C,350,11.7,Ferrite dominant,,436,762,263,24.6,0.001,0.17,1013
+Duplex,"Cr:22.2, Ni:5.8, Mo:2.8",Annealed @1020°C,25,8.5,Ferrite + Austenite,1.30E+14,516,759,,,0.001,,1061
+Duplex,"Cr:21.7, Ni:5.2, Mo:3.0",Quenched & Aged @ 600°C,300,7.4,Ferrite dominant,9.40E+13,433,700,294,17.5,,0.17,1191
+Duplex,"Cr:22.3, Ni:5.5, Mo:3.0",Quenched,300,9,Austenite + Ferrite,1.20E+14,494,,274,24.4,0.001,0.22,1010
+Duplex,"Cr:21.8, Ni:5.5, Mo:3.0",Quenched,150,8.6,Austenite + Ferrite,1.10E+14,441,691,304,22.6,0.001,0.19,1197
+Duplex,"Cr:22.0, Ni:5.8, Mo:3.1",Quenched & Aged @ 600°C,300,7.1,Ferrite dominant,1.20E+14,426,683,288,,0.001,,
+Duplex,"Cr:22.3, Ni:5.7, Mo:3.0",Solution Annealed @ 1050°C,150,10.3,Ferrite + σ,1.10E+14,460,687,298,24.8,0.0005,0.24,1129
+Duplex,"Cr:21.7, Ni:5.6, Mo:3.2",Quenched & Aged @ 600°C,300,8.7,Ferrite + σ,1.20E+14,458,698,275,18.3,0.001,0.2,1097
+Duplex,"Cr:22.1, Ni:5.7, Mo:3.3",Aged @ 650°C,25,11.8,Austenite + Ferrite,1.30E+14,467,653,286,,0.0005,0.22,1084
+Duplex,"Cr:22.2, Ni:5.4, Mo:2.9",Annealed,300,,Ferrite + σ,1.40E+14,455,675,304,16.3,0.001,0.19,1135
+Duplex,"Cr:22.1, Ni:5.3, Mo:2.8",Quenched & Aged @ 600°C,300,7.4,Ferrite + Austenite,1.00E+14,458,652,289,22.8,0.0005,0.25,1108
+Duplex,"Cr:22.0, Ni:5.4, Mo:3.3",Aged @ 700°C,300,8.3,Ferrite + σ,1.40E+14,506,,303,25.7,0.0005,0.24,1058
+Duplex,"Cr:21.9, Ni:5.6, Mo:3.1",Annealed,150,11.4,Ferrite + σ,,446,673,280,17.8,0.0005,0.24,1065
+Duplex,"Cr:22.3, Ni:5.8, Mo:2.9",Aged @ 700°C,200,,Ferrite + Austenite,1.30E+14,450,,,21.4,0.0005,0.23,1027
+Duplex,"Cr:22.0, Ni:5.6, Mo:3.3",Quenched,350,6.4,Ferrite + σ,1.20E+14,405,727,,24.9,0.0005,0.25,1138
+Duplex,"Cr:22.1, Ni:5.3, Mo:2.9",Solution Annealed @ 1050°C,300,11.6,Ferrite + σ,1.00E+14,430,675,283,25.8,0.0005,0.25,
+Duplex,"Cr:21.8, Ni:5.6, Mo:3.3",Solution Annealed @ 1050°C,200,6.8,Austenite + Ferrite,1.30E+14,475,709,269,22,0.001,0.21,1028
+Duplex,"Cr:21.7, Ni:5.2, Mo:3.2",Annealed @1020°C,350,,Ferrite dominant,1.20E+14,460,742,266,18.2,0.0005,,1122
+Duplex,"Cr:22.0, Ni:5.3, Mo:3.1",Aged @ 650°C,25,7.9,Ferrite + Austenite,1.00E+14,470,747,293,21.1,0.001,0.22,1184
+Duplex,"Cr:22.0, Ni:5.7, Mo:2.9",Aged @ 700°C,300,10.4,Ferrite + σ,1.20E+14,419,,,17,0.001,0.21,1084
+Duplex,"Cr:21.9, Ni:5.7, Mo:3.3",Aged @ 650°C,25,9.6,Ferrite + Austenite,9.80E+13,508,744,277,24.1,0.001,0.22,1007
+Duplex,"Cr:22.1, Ni:5.4, Mo:2.9",Solution Annealed @ 1050°C,150,9.4,Ferrite + Austenite,1.30E+14,411,705,289,19.7,0.001,0.17,1012
+Duplex,"Cr:21.9, Ni:5.6, Mo:3.0",Aged @ 650°C,300,10.5,Ferrite dominant,9.60E+13,475,,285,16.5,0.001,0.23,
+Duplex,"Cr:22.1, Ni:5.3, Mo:2.9",Annealed,150,11,Austenite + Ferrite,1.10E+14,,669,296,20,0.0005,0.16,1158
+Duplex,"Cr:22.1, Ni:5.4, Mo:3.0",Solution Annealed @ 1050°C,150,,Ferrite + σ,1.30E+14,499,780,293,25.1,0.001,0.17,1154
+Duplex,"Cr:22.2, Ni:5.2, Mo:3.3",Annealed,300,9.4,Ferrite + σ,1.30E+14,419,770,279,21.9,0.001,,
+Duplex,"Cr:22.2, Ni:5.7, Mo:3.1",Quenched & Aged @ 600°C,300,9.3,Austenite + Ferrite,1.10E+14,483,771,263,24.1,0.001,0.18,1112
+Duplex,"Cr:22.0, Ni:5.6, Mo:2.9",Quenched,300,8,Ferrite + σ,,486,714,302,22,0.001,0.17,1167
+Duplex,"Cr:21.9, Ni:5.6, Mo:3.3",Quenched,350,10.7,Austenite + Ferrite,1.20E+14,,729,273,23.7,0.001,0.19,1129
+Duplex,"Cr:22.2, Ni:5.7, Mo:2.7",Quenched,350,8.3,Ferrite + Austenite,,446,710,299,23.5,0.001,0.23,1049
+Duplex,"Cr:22.3, Ni:5.8, Mo:3.0",Quenched,300,8.5,Ferrite + Austenite,1.30E+14,,773,295,23.1,0.001,0.23,1131
+Duplex,"Cr:22.0, Ni:5.8, Mo:2.8",Aged @ 650°C,200,8.5,Ferrite + σ,1.00E+14,447,731,305,23.9,0.0005,0.2,1194
